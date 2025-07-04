@@ -1,10 +1,10 @@
-# Real Office Furniture - Java Swing App 2.0
+# Real Office Furniture - Java Swing App Enhanced
 
 ![Java](https://img.shields.io/badge/Java-SE_8+-orange)
 ![Swing](https://img.shields.io/badge/UI-Swing-blue)
 ![iText](https://img.shields.io/badge/PDF-iText-green)
 
-A comprehensive furniture management and layout planning application built with Java Swing. This application helps users create, manage, and visualize office furniture arrangements, generate reports, and export layouts to PDF.
+A comprehensive furniture management and layout planning application built with Java Swing. This application helps users create, manage, and visualise office furniture arrangements, generate reports, and export layouts to PDF.
 
 ## 🌟 Features
 
