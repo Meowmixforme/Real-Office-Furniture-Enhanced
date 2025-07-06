@@ -5,7 +5,7 @@ import java.awt.event.*;
 import javax.swing.*;
 import java.util.HashMap;
 
-public class FurnitureCustomizer {
+public class FurnitureCustomiser {
     
     // Color options for furniture
     private static final HashMap<String, Color> colorOptions = new HashMap<>();
