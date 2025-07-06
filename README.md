@@ -98,9 +98,11 @@ A comprehensive furniture management and layout planning application built with 
 
 1. Ensure Java 8 or higher is installed
 2. Clone the repository
-3. Import the project into your preferred Java IDE
+3. Import the project into your preferred Java IDE (Created in netbeans)
 4. Add the required libraries:
-   - iText PDF (included in the lib folder)
+   - xmlworker-5.5.13.3
+   - sqlite-jdbc-3.34.0
+   - itextpdf-5.5.13.3
 5. Run the `MainDriver` class
 
 ## 📚 Usage
