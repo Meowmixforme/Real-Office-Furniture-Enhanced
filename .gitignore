@@ -22,3 +22,6 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+/Real-OfficeFurniture-2.0/nbproject/private/
+/Real-OfficeFurniture-2.0/build/
+/Real-OfficeFurniture-2.0/dist/
