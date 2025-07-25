@@ -6,6 +6,11 @@
 
 A comprehensive furniture management and layout planning application built with Java Swing. This application helps users create, manage, and visualise office furniture arrangements, generate reports, and export layouts to PDF.
 
+
+<img width="1024" height="1024" alt="freepik__the-style-is-modern-and-it-is-a-detailed-illustrat__17070" src="https://github.com/user-attachments/assets/148adafd-96a2-4338-bee2-878e8f8f3b82" />
+
+
+
 ## 🌟 Features
 
 ### Core Functionality
