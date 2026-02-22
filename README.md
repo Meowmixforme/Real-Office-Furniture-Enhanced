@@ -94,7 +94,7 @@ A comprehensive furniture management and layout planning application built with 
 - **Automatic ID Generation**: Eliminated manual product ID entry
 - **Undo/Redo System**: Added comprehensive action history management
 - **PDF Export**: Implemented professional report generation
-- **Enhanced Visualization**: Improved furniture representation on the grid
+- **Enhanced Visualisation**: Improved furniture representation on the grid
 - **Improved UI**: Better component styling and interaction feedback
 - **Code Refactoring**: Improved architecture and code organization
 - **Bug Fixes**: Resolved issues from previous version
